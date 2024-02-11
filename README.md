@@ -74,4 +74,9 @@ error: Your local changes to the following files would be overwritten by merge:
 Please commit your changes or stash them before you merge.
 Aborting
 Updating 63c5db1..af08013
+
+
+
+git checkout -- frontend/App.js frontend/package-lock.json frontend/yarn.lock
+
     
