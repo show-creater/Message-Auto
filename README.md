@@ -65,4 +65,13 @@ function App() {
 
 
 export default App;
+
+
+error: Your local changes to the following files would be overwritten by merge:
+        frontend/App.js
+        frontend/package-lock.json
+        frontend/yarn.lock
+Please commit your changes or stash them before you merge.
+Aborting
+Updating 63c5db1..af08013
     
